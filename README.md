@@ -18,4 +18,4 @@ See [license/APACHE](license/APACHE) and [license/MIT](license/MIT).
 
 ## Sponsor
 
-[sponsor](https://github.com/sponsors/CleanCut) to support projects like this. 💖
+[sponsor] https://github.com/sponsors/CleanCut to support projects like this. 💖
