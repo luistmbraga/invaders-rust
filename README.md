@@ -4,6 +4,7 @@
 # Extra features
 
 * Score counter
+* Rust version updated
 
 # Invaders
 
