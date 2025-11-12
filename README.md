@@ -1,3 +1,6 @@
+<img width="324" height="549" alt="Screenshot 2025-11-12 at 09 07 38" src="https://github.com/user-attachments/assets/0d856076-ea81-4894-9dca-4b0e563ccb7e" />
+
+
 # Extra features
 
 * Score counter
